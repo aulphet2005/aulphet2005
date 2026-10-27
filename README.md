@@ -1,16 +1,19 @@
-## Hi there 👋
+### Bonjour 👋, je m'appelle Aulphet
 
-<!--
-**aulphet2005/aulphet2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Je suis actuellement étudiant en **2ème année de Systèmes Informatiques et Logiciels (SIL)** au Bénin.
+- 💻 Je m'intéresse au développement logiciel, à la conception de bases de données et aux technologies web.
+- 🎯 Mon objectif : Poursuivre mes études et réussir ma carrière dans l'informatique.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Mes compétences techniques
+
+* **Langages :** Python, C, JavaScript, Java
+* **Web :** HTML5, CSS3
+* **Bases de données :** MySQL, PostgreSQL
+* **Outils :** Git, GitHub, VS Code, Linux
+
+---
+
+### 📫 Comment me contacter ?
+* **GitHub :** [aulphet2005](https://github.com/aulphet2005)
